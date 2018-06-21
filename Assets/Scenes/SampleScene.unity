@@ -125,7 +125,6 @@ GameObject:
   - component: {fileID: 361057445}
   - component: {fileID: 361057444}
   - component: {fileID: 361057448}
-  - component: {fileID: 361057449}
   - component: {fileID: 361057451}
   - component: {fileID: 361057450}
   m_Layer: 0
@@ -216,17 +215,6 @@ MonoBehaviour:
   speed: 0.1
   width: 100
   height: 100
---- !u!114 &361057449
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 361057443}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b70363c64eb1ad4bac7be2643614fcf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!199 &361057450
 ParticleSystemRenderer:
   serializedVersion: 5
